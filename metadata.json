@@ -1,0 +1,9 @@
+{
+  "uuid": "pwa-shelf@mcda.local",
+  "name": "PWA Shelf",
+  "url": "https://github.com/mcdalbu/pwa-shelf",
+  "description": "PWAs do Chrome e Chromium no painel: abra, recolha e restaure sem encerrar a janela.",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.pwa-shelf",
+  "version": 1
+}

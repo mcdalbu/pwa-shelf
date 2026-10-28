@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.pwa-shelf" path="/org/gnome/shell/extensions/pwa-shelf/">
+    <key name="excluded-apps" type="as">
+      <default>[]</default>
+      <summary>Desktop IDs ocultos do painel</summary>
+    </key>
+  </schema>
+</schemalist>
